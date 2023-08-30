@@ -1,9 +1,11 @@
+[placement]
+mode = "smart"
 name = "cf-image-proxy"
 type = "javascript"
 webpack_config = "webpack.config.js"
-account_id = "TODO"
+account_id = "9fd45848e3091b81b9da211a233c1c21"
 workers_dev = true
 
 [env.production]
-zone_id = "TODO"
+zone_id = "jorgeadamkh.workers.dev"
 route = "TODO"
