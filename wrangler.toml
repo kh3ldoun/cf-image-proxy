@@ -7,5 +7,5 @@ account_id = "9fd45848e3091b81b9da211a233c1c21"
 workers_dev = true
 
 [env.production]
-zone_id = "jorgeadamkh.workers.dev"
-route = "TODO"
+zone_id = "cf-image-proxy.pages.dev"
+route = "a46b0251.cf-image-proxy.pages.dev"
